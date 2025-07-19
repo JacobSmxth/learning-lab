@@ -1,22 +1,22 @@
 
-# 🐍 Python Lab
+# Python Lab
 
 This directory documents my work with Python, focused on scripting, automation, GUI/TUI development, and early object-oriented design. Python serves as a rapid prototyping tool and a foundation for writing secure, maintainable tools with minimal overhead.
 
 ---
 
-## 📁 Structure
-
+##  Structure
+```
 Python/
-├── 01_basics/ # First scripts and syntax experiments
+├── 01_basics/ 
 │ ├── firstPy.py
 │ └── testing.py
-├── 02_projects/ # Practical applications
-│ ├── objectTodoProgram/ # TUI + OOP project with JSON persistence
-│ ├── terminalPomodoroTimer/ # Pomodoro timer with sound alerts
-│ └── todoProgram/ # Simpler to-do CLI tool
+├── 02_projects/ 
+│ ├── objectTodoProgram/ 
+│ ├── terminalPomodoroTimer/ 
+│ └── todoProgram/ 
 └── README.md
-
+```
 ---
 
 ## 💡 Projects Summary
