@@ -1,40 +1,59 @@
-# learning-rust
+# 🦀 Rust Lab
 
-**My Vision:**
-To solidify my programming and master Rust as my primary language. I want to architect fast, safe systems.
-
----
-
-## My Objectives
-
-1. **Master Core Rust Concepts**
-2. **Apply with Real-World Projects**
-3. **Show and Prove Best Practices**
+This directory documents my entry into the Rust programming language — a critical skill for high-assurance systems, OS development, and performance-critical backend tooling. Rust is my endgame systems language following mastery in C.
 
 ---
 
-## My Big Stretch Goal
-**Create a minimal Rust OS in 3-4 Months**
+## 📁 Structure
+
+Rust/
+├── guessing_game/ # CLI game using RNG and pattern matching
+├── hello_cargo/ # Cargo-based "Hello, world!" scaffolding
+├── hello_world/ # Basic syntax introduction
+├── variables/ # Variable types, shadowing, mutability
+├── notes/ # Learning journal and insights
+└── README.md
 
 ---
 
-## My Resources
-- **Primary Book:** [The Rust Programming Language Book](https://doc.rust-lang.org/book)
-> It is a resource I found online and I'm using to learn up on this alien looking syntax.
-- **Interactive AI Mentor:** [ChatGPT](https://chatgpt.com/)
-> This is used soley for questions and soft examples. THIS IS NOT FOR ANSWERS OR CODING HELP. ALL MY CODING IS DONE BY ME.
-- **Community & Support:**
-    - Rust User Forums
-    - Reddit
-    - Crates.io Documentation
+## 📘 Projects Overview
+
+### `guessing_game/`
+- First non-trivial Rust program
+- Uses `rand` crate and CLI input parsing
+- Demonstrates pattern matching and control flow
+
+### `variables/`
+- Covers `let`, `mut`, shadowing, and type inference
+- Outputs compiled binaries with cargo build
 
 ---
 
-## Progress Tracking
-- I track all my work here on Github
-- I'm going to try and commit daily summaries in a `journal.md` under the `/notes` directory.
+## 🧠 Learning Themes
+
+- Ownership, borrowing, and lifetimes (⚠️ upcoming)
+- Crates and Cargo project structure
+- Pattern matching and enums
+- Standard library utilities (`std::fs`, `std::io`)
+- Error handling: `Result`, `Option`, `unwrap`, `expect`
 
 ---
 
-## My Mandates for myself
-1. **Daily** practice for a minimum of 1.5 hours.
+## 🛠 Tooling
+
+- `rustup`, `cargo`, `clippy`, `rustfmt`, `cargo-watch`
+- `target/` directories contain compiled artifacts (usually in `.gitignore`)
+
+---
+
+## 🛣️ Roadmap
+
+- [ ] CLI utilities with `clap`
+- [ ] File manipulation and I/O streams
+- [ ] Build a safe wrapper over `unsafe` C bindings
+- [ ] Custom memory allocators
+- [ ] Experimental kernel modules
+
+---
+
+🔥 *Rust is my strategic pivot into memory-safe, high-performance systems programming — bridging the gap between raw power (C) and modern maintainability.*
