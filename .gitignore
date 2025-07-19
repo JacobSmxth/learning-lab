@@ -1,0 +1,52 @@
+# === Binary Output ===
+*.o
+*.out
+*.a
+*.so
+*.exe
+*.dll
+*.bin
+
+# === Core Dumps ===
+core
+vgcore.*
+
+# === Executable Artifacts ===
+task
+calc
+pw
+tbGame
+
+# === Compiled Folders ===
+bin/
+obj/
+build/
+dist/
+
+# === Rust ===
+target/
+Cargo.lock
+
+# === Go ===
+*.test
+coverage.out
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+
+# === Backup / Temp Files ===
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# === Logs ===
+*.log
+
+# === Editor Configs (Optional) ===
+.vscode/
+.idea/
+
