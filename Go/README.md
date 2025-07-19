@@ -5,14 +5,14 @@ This directory tracks my journey learning the Go programming language (Golang), 
 ---
 
 ## 📁 Structure
-
+```
 Go/
-├── 01_basics/ # Core syntax, types, functions, control flow
+├── 01_basics/
 │ └── firstGo.go
-├── 02_projects/ # Real-world practice projects
-│ └── webServer/ # Simple static file server with routing logic
+├── 02_projects/ 
+│ └── webServer/ 
 └── README.md
-
+```
 ---
 
 ## 🧠 Key Learning Themes
