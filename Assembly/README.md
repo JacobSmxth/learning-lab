@@ -4,17 +4,17 @@ This directory documents my hands-on learning with x86 Assembly, focusing on low
 
 ---
 
-## 📁 Directory Structure
-
+## Directory Structure
+```
 Assembly/
-├── beginning/ # ISO bootable experiments and simple loaders
-│ ├── first.asm # First bootable image
-│ ├── second.asm # Sequential experiments
-│ ├── multiStage/ # Multi-stage bootloader: stage1 → stage2
-├── functioningBootloader/ # A working, clean multistage bootloader
-├── examplesAndSuch/ # Miscellaneous/test code including AI-generated bootloaders
+├── beginning/ 
+│ ├── first.asm 
+│ ├── second.asm 
+│ ├── multiStage/ 
+├── functioningBootloader/ 
+├── examplesAndSuch/ 
 └── README.md
-
+```
 ---
 
 ## 🔧 Projects Breakdown
