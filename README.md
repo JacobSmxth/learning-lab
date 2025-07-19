@@ -16,14 +16,14 @@ Every directory is a self-contained training ground — featuring syntax practic
 ---
 
 ## 🧠 Structure
-
+```
 learning-lab/
 ├── C/ # Core memory, process, and socket fundamentals
 ├── Go/ # Backend systems, concurrency, tooling (in progress)
 ├── Rust/ # Future: safe systems programming experiments
 ├── Assembly/ # 16-bit x86 fundamentals (paused)
 └── Python/ # Automation & scripting utilities (optional)
-
+```
 ---
 
 ## 🎯 Goals
