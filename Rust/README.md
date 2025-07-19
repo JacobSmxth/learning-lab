@@ -5,15 +5,15 @@ This directory documents my entry into the Rust programming language — a criti
 ---
 
 ## 📁 Structure
-
+```
 Rust/
-├── guessing_game/ # CLI game using RNG and pattern matching
-├── hello_cargo/ # Cargo-based "Hello, world!" scaffolding
-├── hello_world/ # Basic syntax introduction
-├── variables/ # Variable types, shadowing, mutability
-├── notes/ # Learning journal and insights
+├── guessing_game/
+├── hello_cargo/ 
+├── hello_world/
+├── variables/ 
+├── notes/ 
 └── README.md
-
+```
 ---
 
 ## 📘 Projects Overview
