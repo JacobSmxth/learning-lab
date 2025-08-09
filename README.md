@@ -1,11 +1,10 @@
-# 🧪 learning-lab
+# learning-lab
 
-**Author:** [JacobSmxth](https://github.com/JacobSmxth)
 **Focus:** Deep-dive systems programming — from C to Go — backed by experiments, tools, and documentation.
 
 ---
 
-## 📘 Overview
+## Overview
 
 This is my centralized lab space for mastering systems-level engineering.
 
@@ -15,18 +14,18 @@ Every directory is a self-contained training ground — featuring syntax practic
 
 ---
 
-## 🧠 Structure
-
+## Structure
+```
 learning-lab/
 ├── C/ # Core memory, process, and socket fundamentals
 ├── Go/ # Backend systems, concurrency, tooling (in progress)
 ├── Rust/ # Future: safe systems programming experiments
 ├── Assembly/ # 16-bit x86 fundamentals (paused)
 └── Python/ # Automation & scripting utilities (optional)
-
+```
 ---
 
-## 🎯 Goals
+## Goals
 
 - Build confidence writing raw C — memory management, system calls, concurrency
 - Transition to Go for backend tooling and service design
@@ -48,24 +47,24 @@ learning-lab/
 
 ---
 
-## 🚧 Project Labs by Language
+## Project Labs by Language
 
-### 🔹 `C/`
+### `C/`
 - `basics/`, `intermediate/`, `KnRBook/`
 - Projects: CLI password manager, dynamic task manager, sockets, allocators
 
-### 🔸 `Go/`
+### `Go/`
 - Early tools and backend learning (REST APIs and CLI tools planned)
 
-### 🟤 `Rust/`
+### `Rust/`
 - Initialized but paused — will resume post-Go fundamentals
 
-### ⚪ `Assembly/`
+### `Assembly/`
 - BIOS-level bootloader, register experiments, interrupts
 
 ---
 
-## 📜 Documentation & Workflow
+## Documentation & Workflow
 
 Each language folder includes:
 
@@ -79,9 +78,9 @@ I document what works, what breaks, and what I learn.
 
 ## 📬 Contact
 
-- 📧 jacobsmith@jsmitty.com
+- jacobsmith@jsmitty.com
 - 🌐 [jsmitty.com](https://jsmitty.com)
-- 🐙 [github.com/JacobSmxth](https://github.com/JacobSmxth)
+- [github.com/JacobSmxth](https://github.com/JacobSmxth)
 
 ---
 

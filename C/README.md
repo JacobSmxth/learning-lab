@@ -3,15 +3,15 @@
 This folder contains my complete C programming learning journey, from fundamentals to applied systems-level projects. I'm building a deep foundation in C to understand memory management, pointer arithmetic, and systems internals. This forms the core of my systems engineering trajectory.
 
 ## 📁 Structure
-
+```
 C/
-├── basics/ # Syntax, control structures, math ops, scope
-├── commands/ # Tiny utilities (e.g. devlog)
-├── intermediate/ # More structured projects with Makefiles
-├── KnRBook/ # Exercises from The C Programming Language (Kernighan & Ritchie)
-├── proximal-development/ # More applied or exploratory mini-projects
+├── basics/
+├── commands/
+├── intermediate/
+├── KnRBook/
+├── proximal-development/
 └── README.md
-
+```
 ## 📌 Highlights
 
 - **basics/**: Includes short C programs demonstrating loops, conditionals, functions, and scope.
